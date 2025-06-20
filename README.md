@@ -8,7 +8,7 @@ This tool provides an easy way to generate various versions of UUIDs (v1, v3, v4
 
 ## Installation
 
-You can install guuid using pip:
+You can install uuidgen using pip:
 
 ```
 pip install uuidgen
